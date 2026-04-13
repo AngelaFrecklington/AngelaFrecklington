@@ -10,7 +10,7 @@ I am passionate about analysing data to uncover meaningful insights that support
 
 ## 📫 Connect with me
 - 🔗 [LinkedIn](https://linkedin.com/in/angela-frecklington)  
-- 📄 [View My CV](https://github.com/AngelaFrecklington/data-analytics-portfolio/raw/main/Angela_Frecklington_CV_PDF.pdf)
+- 📄 https://github.com/AngelaFrecklington/data-analytics-portfolio/raw/main/Angela_Frecklington_CV_PDF.pdf
 
 ---
 
