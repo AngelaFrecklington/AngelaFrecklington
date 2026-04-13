@@ -1,8 +1,15 @@
 # Hi, I'm Angela 👋
 
-I’m a career changer transitioning into data analytics, currently studying a Diploma in Data Analytics and a Level 5 Certificate in IT.
+Welcome to my data analytics portfolio.
 
-I’m passionate about using data to uncover insights and support better decision-making.
+I am a career changer transitioning into the tech industry, currently studying towards a Diploma in Data Analytics and a Level 5 Certificate in Information Technology, and applying my skills through hands-on projects.
+
+With over 20 years of transferable experience across business ownership and the mining industry, I bring a strong foundation in problem-solving, attention to detail, and working in high-responsibility environments.
+
+I am passionate about analysing data to uncover meaningful insights that support better decision-making for businesses and organisations.
+
+Connect with me on:
+🔗 www.linkedin.com/in/angela-frecklington
 
 ---
 
@@ -33,5 +40,4 @@ I’m passionate about using data to uncover insights and support better decisio
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/angela-frecklington
+
