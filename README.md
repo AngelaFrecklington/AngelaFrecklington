@@ -8,10 +8,9 @@ With over 20 years of transferable experience across business ownership and the 
 
 I am passionate about analysing data to uncover meaningful insights that support better decision-making for businesses and organisations.
 
-- 📄 [View My CV](https://github.com/AngelaFrecklington/data-analytics-portfolio/raw/main/Angela_Frecklington_CV_PDF.pdf)  
-
-Connect with me on:
-🔗 www.linkedin.com/in/angela-frecklington
+## 📫 Connect with me
+- 🔗 [LinkedIn](https://linkedin.com/in/angela-frecklington)  
+- 📄 [View My CV](https://github.com/AngelaFrecklington/data-analytics-portfolio/raw/main/Angela_Frecklington_CV_PDF.pdf)
 
 ---
 
