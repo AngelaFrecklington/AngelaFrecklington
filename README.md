@@ -30,7 +30,8 @@ Connect with me on:
 - Achieved 93% accuracy  
 - Identified key drivers of loan default risk  
 
-👉 [View Project](https://github.com/AngelaFrecklington/data-analytics-portfolio)
+👉 View Full Project  
+https://github.com/AngelaFrecklington/data-analytics-portfolio/blob/main/Projects/Loan_Approval_Status.ipynb
 
 ---
 
